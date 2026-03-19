@@ -87,6 +87,3 @@ Conclusion:
 
 This SQL analysis reveals actionable business insights for restaurant growth through product performance tracking, revenue analysis, and customer behavior understanding. Regular data analysis can improve operational efficiency and menu strategy.
 
-time
-
-Rows: 21,350
